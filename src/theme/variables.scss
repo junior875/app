@@ -4,15 +4,15 @@
 /** Ionic CSS Variables **/
 :root {
   /** primary **/
-  --ion-color-primary: #3880ff;
-  --ion-color-primary-rgb: 56, 128, 255;
-  --ion-color-primary-contrast: #ffffff;
-  --ion-color-primary-contrast-rgb: 255, 255, 255;
-  --ion-color-primary-shade: #3171e0;
-  --ion-color-primary-tint: #4c8dff;
+  --ion-color-primary: #0B3142;
+	--ion-color-primary-rgb: 21,97,109;
+	--ion-color-primary-contrast: #ffffff;
+	--ion-color-primary-contrast-rgb: 255,255,255;
+	--ion-color-primary-shade: #125560;
+	--ion-color-primary-tint: #2c717c;
 
   /** secondary **/
-  --ion-color-secondary: #3dc2ff;
+  --ion-color-secondary: #A44200;
   --ion-color-secondary-rgb: 61, 194, 255;
   --ion-color-secondary-contrast: #ffffff;
   --ion-color-secondary-contrast-rgb: 255, 255, 255;
@@ -118,7 +118,7 @@
     --ion-color-warning-shade: #e0bb2e;
     --ion-color-warning-tint: #ffd948;
 
-    --ion-color-danger: #ff4961;
+    --ion-color-danger: #570000;
     --ion-color-danger-rgb: 255,73,97;
     --ion-color-danger-contrast: #ffffff;
     --ion-color-danger-contrast-rgb: 255,255,255;
@@ -153,7 +153,7 @@
    */
 
   .ios body {
-    --ion-background-color: #000000;
+    --ion-background-color: green;
     --ion-background-color-rgb: 0,0,0;
 
     --ion-text-color: #ffffff;
